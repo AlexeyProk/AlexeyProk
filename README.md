@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Alexey Prokharchyk</h1>
 
-<!--
-**AlexeyProk/AlexeyProk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Quantitative Finance • Risk Management • Python
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- M.S. Financial & Enterprise Risk Management @ UConn
+- Quantitative Finance | Risk Analytics | Python
+- U.S. Army Veteran
+- Interested in derivatives pricing, portfolio optimization, and risk modeling
+
+---
+
+## Technical Skills
+
+### Languages
+- Python
+- SQL
+- R
+
+### Libraries
+- pandas
+- numpy
+- scipy
+- statsmodels
+- scikit-learn
+- matplotlib
+
+---
+
+## Quantitative Finance
+
+- Black-Scholes
+- Monte Carlo Simulation
+- VaR
+- Value at Risk (VaR)
+- Portfolio Risk Analytics
+
+---
+
+## Current Projects
+
+- Derivatives pricing models in Python
+- Risk analytics and portfolio modeling
+- Quant finance research and simulations
+
+---
+
+## Education
+
+### University of Connecticut
+- M.S. Financial & Enterprise Risk Management
+
+### University of Connecticut
+- B.A. Financial Management and B.A. History
+- Minor: English
+
+---
+
+## Military Background
+
+U.S. Army Veteran
