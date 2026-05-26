@@ -1,17 +1,20 @@
-<h1 align="center">Alexey Prokharchyk</h1>
-
 <p align="center">
-Quantitative Finance • Risk Management • Python
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F24,100:2F3B52&height=220&section=header&text=Alexey%20Prokharchyk&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Quantitative%20Finance%20|%20Risk%20Management%20|%20Python&descAlignY=58" />
 </p>
+
+<h3 align="center">
+Quantitative Finance • Risk Analytics • Financial Modeling
+</h3>
 
 ---
 
 ## About Me
 
-- M.S. Financial & Enterprise Risk Management @ UConn
-- Quantitative Finance | Risk Analytics | Python
-- U.S. Army Veteran
-- Interested in derivatives pricing, portfolio optimization, and risk modeling
+- M.S. Financial & Enterprise Risk Management @ University of Connecticut
+- Focused on quantitative finance, derivatives pricing, and portfolio risk analytics
+- Building financial models and simulations using Python
+- U.S. Army Veteran with leadership and operational experience
+- Interested in volatility modeling, Monte Carlo methods, and risk management systems
 
 ---
 
@@ -22,45 +25,56 @@ Quantitative Finance • Risk Management • Python
 - SQL
 - R
 
-### Libraries
+### Libraries & Tools
 - pandas
 - numpy
 - scipy
 - statsmodels
 - scikit-learn
 - matplotlib
+- Git
+- Jupyter Notebook
 
 ---
 
-## Quantitative Finance
+## Quantitative Finance & Risk Modeling
 
-- Black-Scholes
+- Black-Scholes Option Pricing
 - Monte Carlo Simulation
-- VaR
 - Value at Risk (VaR)
 - Portfolio Risk Analytics
+- Volatility Modeling
+- Fixed Income Analytics
 
 ---
 
 ## Current Projects
 
 - Derivatives pricing models in Python
-- Risk analytics and portfolio modeling
-- Quant finance research and simulations
+- Portfolio optimization and risk analytics
+- Quantitative finance research and simulations
+- Financial data analysis and visualization
 
 ---
 
 ## Education
 
 ### University of Connecticut
-- M.S. Financial & Enterprise Risk Management
+**M.S. Financial & Enterprise Risk Management**
 
 ### University of Connecticut
-- B.A. Financial Management and B.A. History
-- Minor: English
+**B.A. Financial Management & History**  
+Minor in English
 
 ---
 
 ## Military Background
 
 U.S. Army Veteran
+
+---
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/alexey-prokharchyk
+- Email: alexeyprokharchyk@gmail.com
