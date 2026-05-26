@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F24,100:2F3B52&height=220&section=header&text=Alexey%20Prokharchyk&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Quantitative%20Finance%20|%20Risk%20Management%20|%20Python&descAlignY=58" />
 </p>
 
-<h3 align="center">
-Quantitative Finance • Risk Analytics • Financial Modeling
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=2F3B52&center=true&vCenter=true&width=750&lines=Quantitative+Finance;Risk+Management;Derivatives+Pricing;Portfolio+Analytics;Python+Financial+Modeling" />
+</p>
 
 ---
 
@@ -12,39 +12,47 @@ Quantitative Finance • Risk Analytics • Financial Modeling
 
 - M.S. Financial & Enterprise Risk Management @ University of Connecticut
 - Focused on quantitative finance, derivatives pricing, and portfolio risk analytics
-- Building financial models and simulations using Python
+- Building financial models, simulations, and risk analytics tools using Python
 - U.S. Army Veteran with leadership and operational experience
-- Interested in volatility modeling, Monte Carlo methods, and risk management systems
+- Interested in volatility modeling, Monte Carlo methods, and financial risk systems
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlexeyProk&show_icons=true&theme=transparent&hide_border=true&title_color=2F3B52&text_color=1B1F24&icon_color=2F3B52" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyProk&layout=compact&theme=transparent&hide_border=true&title_color=2F3B52&text_color=1B1F24" />
+</p>
 
 ---
 
 ## Technical Skills
 
-### Languages
-- Python
-- SQL
-- R
-
-### Libraries & Tools
-- pandas
-- numpy
-- scipy
-- statsmodels
-- scikit-learn
-- matplotlib
-- Git
-- Jupyter Notebook
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-1B1F24?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/SQL-1B1F24?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-1B1F24?style=for-the-badge&logo=r&logoColor=276DC3" />
+  <img src="https://img.shields.io/badge/Pandas-1B1F24?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-1B1F24?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
+  <img src="https://img.shields.io/badge/SciPy-1B1F24?style=for-the-badge&logo=scipy&logoColor=8CAAE6" />
+  <img src="https://img.shields.io/badge/scikit--learn-1B1F24?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Git-1B1F24?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Jupyter-1B1F24?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+</p>
 
 ---
 
 ## Quantitative Finance & Risk Modeling
 
 - Black-Scholes Option Pricing
+- Binomial Trees
 - Monte Carlo Simulation
 - Value at Risk (VaR)
 - Portfolio Risk Analytics
 - Volatility Modeling
 - Fixed Income Analytics
+- Factor Regression Analysis
 
 ---
 
@@ -54,6 +62,7 @@ Quantitative Finance • Risk Analytics • Financial Modeling
 - Portfolio optimization and risk analytics
 - Quantitative finance research and simulations
 - Financial data analysis and visualization
+- Risk modeling and stress testing frameworks
 
 ---
 
@@ -71,19 +80,7 @@ Minor in English
 
 ## Military Background
 
-U.S. Army Veteran
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexeyProk&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyProk&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+U.S. Army Veteran with leadership and operational experience in high-pressure environments.
 
 ---
 
