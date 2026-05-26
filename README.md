@@ -16,14 +16,6 @@
 - U.S. Army Veteran with leadership and operational experience
 - Interested in volatility modeling, Monte Carlo methods, and financial risk systems
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlexeyProk&show_icons=true&theme=transparent&hide_border=true&title_color=2F3B52&text_color=1B1F24&icon_color=2F3B52" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyProk&layout=compact&theme=transparent&hide_border=true&title_color=2F3B52&text_color=1B1F24" />
-</p>
 
 ---
 
@@ -36,9 +28,7 @@
   <img src="https://img.shields.io/badge/Pandas-1B1F24?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-1B1F24?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
   <img src="https://img.shields.io/badge/SciPy-1B1F24?style=for-the-badge&logo=scipy&logoColor=8CAAE6" />
-  <img src="https://img.shields.io/badge/scikit--learn-1B1F24?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
   <img src="https://img.shields.io/badge/Git-1B1F24?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Jupyter-1B1F24?style=for-the-badge&logo=jupyter&logoColor=F37626" />
 </p>
 
 ---
